@@ -1,15 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1404,"scrollY":763.7142857142857},
-{"id":2,"expanded":true,"name":"Village House 1F","order":3,"parentId":4,"scrollX":1404,"scrollY":763.7142857142857},
-{"id":3,"expanded":false,"name":"Village House 2F","order":4,"parentId":2,"scrollX":1092,"scrollY":594},
-{"id":4,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":1104,"scrollY":668},
-{"id":5,"expanded":false,"name":"Lost Forest","order":8,"parentId":1,"scrollX":1769.3333333333333,"scrollY":972.6666666666666},
-{"id":6,"expanded":false,"name":"Weapon Shop","order":5,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"Armor Shop","order":6,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"Item Shop","order":7,"parentId":4,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":false,"name":"Demon Castle","order":9,"parentId":1,"scrollX":1769.4545454545455,"scrollY":972},
-{"id":10,"expanded":false,"name":"Demon Castle 3","order":10,"parentId":9,"scrollX":1081.3333333333333,"scrollY":890},
-{"id":11,"expanded":false,"name":"Floating Temple","order":11,"parentId":1,"scrollX":1081.3333333333333,"scrollY":846},
-{"id":12,"expanded":false,"name":"Hall of Transference","order":12,"parentId":11,"scrollX":1092,"scrollY":594}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1638,"scrollY":891},
+{"id":2,"expanded":true,"name":"Home 1F","order":3,"parentId":4,"scrollX":1638,"scrollY":891},
+{"id":3,"expanded":false,"name":"Home 2F","order":4,"parentId":2,"scrollX":1786.909090909091,"scrollY":972},
+{"id":4,"expanded":true,"name":"The Village","order":2,"parentId":1,"scrollX":1622,"scrollY":1029},
+{"id":5,"expanded":false,"name":"Forest of Many Paths","order":8,"parentId":1,"scrollX":1946.3999999999999,"scrollY":1810.8},
+{"id":6,"expanded":false,"name":"Weapon Shop","order":5,"parentId":4,"scrollX":1638,"scrollY":891},
+{"id":7,"expanded":false,"name":"Armor Shop","order":6,"parentId":4,"scrollX":1786.909090909091,"scrollY":972},
+{"id":8,"expanded":false,"name":"Item Shop","order":7,"parentId":4,"scrollX":1786.909090909091,"scrollY":972},
+{"id":9,"expanded":true,"name":"Castle of Darkness","order":9,"parentId":1,"scrollX":1622,"scrollY":1215},
+{"id":10,"expanded":false,"name":"Castle of Darkness 1F","order":10,"parentId":9,"scrollX":1965.6,"scrollY":1069.2},
+{"id":11,"expanded":true,"name":"Temple of Renewal","order":11,"parentId":1,"scrollX":1786.909090909091,"scrollY":972},
+{"id":12,"expanded":false,"name":"Temple of Renewal 1F","order":12,"parentId":11,"scrollX":1965.6,"scrollY":1069.2}
 ]
